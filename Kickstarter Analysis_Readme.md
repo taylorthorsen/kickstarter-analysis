@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The Purpose of this challenge was to get us comfortable working with excel and being able to digest large data sets. Through this kickstarter we have been able to vsiualize and analyse Louise's data to help her campaign be successful. 
+The Purpose of this challenge was to get us comfortable working with excel and being able to digest large data sets. Through this kickstarter we have been able to visualize and analyze Louise's data to help her campaign be successful. 
 
 ## Analysis and Challenges
 
@@ -29,7 +29,7 @@ For the most part, I felt I had a pretty good grasp on the functions in excel. T
 
 - What are some limitations of this dataset?
 
-1. We had campaigns with no backers which gave us an error message when canculating average donations.
+1. We had campaigns with no backers which gave us an error message when calculating average donations.
 
 - What are some other possible tables and/or graphs that we could create?
 
